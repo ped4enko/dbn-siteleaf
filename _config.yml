@@ -17,6 +17,9 @@ collections:
   news:
     title: news
     output: true
+  publ:
+    title: publ
+    output: true
 defaults:
 - scope:
     path: ''
